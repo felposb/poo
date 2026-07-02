@@ -1,0 +1,11 @@
+[
+    {
+        "Tipo produto": "\u00d3leo",
+        "Marca": "Shell",
+        "Detalhes": "\u00d3leo 5W30",
+        "Valor unitario": 45.9,
+        "Quantidade disponivel": 10,
+        "Observacoes": "Produto novo",
+        "Status": "ativo"
+    }
+]
